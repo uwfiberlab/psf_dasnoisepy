@@ -1,4 +1,4 @@
-# psf_dasnoisepy
+# DAS Imaging and Monitoring Research in Python at the PSF
 This repository has the software and workflows for ambient-noise analysis of the PSF DAS data. From Onyx acquisition to dispersion and monitoring analysis.
 
 The data is assumed to be copied from the Onyx system to petasaur into a specific drive.
